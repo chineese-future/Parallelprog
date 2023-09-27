@@ -1,2 +1,2 @@
 # Parallelprog
-Labrep
+Labuzov, KS-40
